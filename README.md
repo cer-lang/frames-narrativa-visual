@@ -1,4 +1,26 @@
 # frames-narrativa-visual
 Narrativa visual frames 
-
-https://github.com/cer-lang/frames-narrativa-visual/blob/c2a12c544d20042eb573155e30d5c95afe54d99b/frame_0001.jpg
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_0001.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_0002.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_0003.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_0004.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_0005.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_0006.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_0007.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_0008.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_0009.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_00010.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_00011.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_00012.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_00013.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_00014.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_00015.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_00016.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_00017.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_00018.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_00019.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_00019.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_0020.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_0021.jpg)
+![image alt](https://github.com/cer-lang/frames-narrativa-visual/blob/fd0dd0f72b9a98e3765c2220e0ac784f87b4bafc/frame_0022.jpg)
+```
